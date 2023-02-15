@@ -83,6 +83,34 @@ summary, examples, and other important information.](
 https://curriculum-content.s3.amazonaws.com/python/full_kata_description.png
 "full kata description")
 
+In the top right corner, you'll see a couple of buttons: "Train" and
+"Next Kata". Click on "Train" to give your kata a shot (ideally one a bit
+easier than "parseInt() reloaded").
+
+![Two buttons: "Train" and "Next Kata".](
+https://curriculum-content.s3.amazonaws.com/python/train_next_kata.png
+"train next kata")
+
+Next, you should see your instructions on the left and the solution and testing
+areas on the right. You will write your solutions in the "Solution" box, and it
+will be tested against the cases in the "Sample Tests" box below when you click
+on "Test". When all tests are passing, you can click "Submit". This will run
+your solution against many (often hundreds) invisible tests to see if your
+solution is valid for all input. Once you have passed all of these tests, you
+can submit your code and view other users' answers.
+
+![The right side of a kata page. Contains two boxes: "Solution" on top and
+"Sample Tests" on the bottom.](
+https://curriculum-content.s3.amazonaws.com/python/codewars_solution_area.png
+"kata solution tests")
+
+You'll notice a couple of other things on this page as well. There are two
+dropdown menus above the solution box for the programming language and version.
+We're using Python version 3.8 to match the rest of the Phase 3 curriculum.
+Additionally, you can choose to use a Vim or Emacs interface if you prefer to
+navigate the page in different ways. There is also the option to make the
+solution window fullscreen if you need more space to work with.
+
 ### Continuing Your Practice
 
 After you've completed the katas in this module (or you feel you're ready to
@@ -106,7 +134,9 @@ Go later on as well.
 ## Conclusion
 
 Codewars is a helpful tool in learning how to use programming languages to
-accomplish (usually) simple tasks.
+accomplish (usually) simple tasks. We have provided a number of recommended
+practice problems in this module- when you have the time, we encourage you to
+give them a shot!
 
 ***
 
