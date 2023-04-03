@@ -39,7 +39,7 @@ and 7-kyu problems to make sure that you've internalized the lessons so far.
 
 ## Creating a Codewars Account
 
-Open your browser and go to [codewars.com](codewars.com). You'll see two options
+Open your browser and go to [codewars.com](https://www.codewars.com/). You'll see two options
 in the top right: "Log in" and "Join". Unless you've already set up an account,
 click "Join".
 
